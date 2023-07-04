@@ -14,5 +14,4 @@ Screecastify link: https://drive.google.com/file/d/1KOFbzEfchBflnXNAf_yZC3k9bncu
 
 # Screenshot
 
-![Alt text](ProfessionalREADME.PNG)# readme-generator
-![Weather](https://github.com/HungQuocDang/readme-generator/assets/129162404/dae93233-3329-4864-9629-792b76343b4f)
+![ProfessionalREADME](https://github.com/HungQuocDang/readme-generator/assets/129162404/6fad49f3-f5f5-4534-8d62-1c4f10e380e8)
