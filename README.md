@@ -6,6 +6,7 @@ This project is to create a professional README.md for anyone wanting to write a
 # Link
 
 live url: https://hungquocdang.github.io/readme-generator/
+
 Github url: https://github.com/HungQuocDang/readme-generator
 
 Screecastify link: https://drive.google.com/file/d/1KOFbzEfchBflnXNAf_yZC3k9bncuZUNz/view
@@ -14,4 +15,4 @@ Screecastify link: https://drive.google.com/file/d/1KOFbzEfchBflnXNAf_yZC3k9bncu
 
 # Screenshot
 
-![Alt text](ProfessionalREADME.PNG)# readme-generator
+![ProfessionalREADME](https://github.com/HungQuocDang/readme-generator/assets/129162404/6fad49f3-f5f5-4534-8d62-1c4f10e380e8)
